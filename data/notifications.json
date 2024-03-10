@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Welcome Template",
+    "templateName": "welcome",
+    "status": true
+  },
+  {
+    "id": 2,
+    "name": "Signup Template",
+    "templateName": "signup",
+    "status": false
+  }
+]

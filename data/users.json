@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "firstName": "Grady",
+    "lastName": "Myles",
+    "roleId": 2
+  },
+  {
+    "id": 2,
+    "firstName": "Jamal",
+    "lastName": "Gabriel",
+    "roleId": 3
+  },
+  {
+    "id": 3,
+    "firstName": "Berk",
+    "lastName": "Tobias",
+    "roleId": 3
+  },
+  {
+    "id": 4,
+    "firstName": "Christian",
+    "lastName": "Alfonso",
+    "roleId": 2
+  },
+  {
+    "id": 5,
+    "firstName": "Cody",
+    "lastName": "Rooney",
+    "roleId": 1
+  }
+]
